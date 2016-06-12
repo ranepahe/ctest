@@ -1,2 +1,2 @@
 # ctest
-idk
+C++ tutorial / basics
